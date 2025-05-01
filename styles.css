@@ -124,7 +124,7 @@ ul li {
 /* Collage de imágenes (sección derecha) */
 .collage-derecha {
     display: grid;
-    grid-template-columns: repeat(3, 2fr); 
+    grid-template-columns: repeat(3, 2fr); /* 3 imágenes por fila */
     gap: 15px; /* Espacio entre las imágenes */
     width: 45%; /* Limita el ancho del collage */
     height: auto;
