@@ -21,11 +21,11 @@ El archivo `index.html` redirige automáticamente a `About_Me.html`, que contien
 ## 📁 Estructura del Proyecto
 
 About Me/
-├── Imagenes/             # Imágenes usadas en la página (perfil, equipos, películas, etc.)
-├── About_Me.html         # Página principal con contenido completo
-├── index.html            # Redirecciona a About_Me.html
-├── styles.css            # Estilos CSS para toda la página
-└── README.md             # Documentación del proyecto (este archivo)
+├── Imagenes/ # Imágenes usadas en la página (perfil, equipos, películas, etc.)
+├── About_Me.html # Página principal con contenido completo
+├── index.html # Redirecciona a About_Me.html
+├── styles.css # Estilos CSS para toda la página
+└── README.md # Documentación del proyecto (este archivo)
 
 
 ---
