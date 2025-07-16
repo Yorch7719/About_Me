@@ -1,4 +1,5 @@
 About Me | Jorge Daniel Aragón Suárez
+
 Página personal estática desarrollada en HTML y CSS que muestra información sobre Jorge Daniel Aragón, incluyendo su biografía, hobbies, equipos deportivos favoritos, películas y música preferida.
 
 📄 Descripción del Proyecto
@@ -16,6 +17,7 @@ Música favorita con enlaces a YouTube y Spotify
 
 El archivo index.html redirige automáticamente a About_Me.html, que contiene el contenido principal de la página.
 
+
 📁 Estructura del Proyecto
 graphql
 Copiar
@@ -26,6 +28,7 @@ About Me/
 ├── index.html            # Redirecciona a About_Me.html
 ├── styles.css            # Estilos CSS para toda la página
 └── README.md             # Documentación del proyecto (este archivo)
+
 🚀 Cómo usarlo
 Clona o descarga este repositorio.
 
